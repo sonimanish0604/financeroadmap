@@ -1,0 +1,7 @@
+This project is to define Business Context / Design / Requirements and implementation for a Financial Planning website.
+The focus is on Indian market.
+The plan is to start with selling Mutual Funds that are available, a single point for all 3000 MF from different AMC (asset Management companies such as ICICI, IDBD etc)
+NISM (http://www.nism.ac.in/) provides certifications as Mutual Fund Distributors, where individuals / firms can then sell MF from any asset company.
+When any customer invests in a MF or a SIP through this site, the order will be directly placed with NSE platform.
+In subsequent phases, the plan also is to allow trading in ETF and individual stocks, charging a nominal transaction fees, through a DEMAT account
+Changes will be made to business plan as per the market
